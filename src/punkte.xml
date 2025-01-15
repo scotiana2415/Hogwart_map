@@ -1,0 +1,72 @@
+<entries>
+    <entry>
+        <id>1</id>
+        <studentName>Hermione Granger</studentName>
+        <haus>Gryffindor</haus>
+        <lehrerName>Minerva McGonagall</lehrerName>
+        <punkte>15</punkte>
+    </entry>
+    <entry>
+        <id>2</id>
+        <studentName>Draco Malfoy</studentName>
+        <haus>Slytherin</haus>
+        <lehrerName>Severus Snape</lehrerName>
+        <punkte>30</punkte>
+    </entry>
+    <entry>
+        <id>3</id>
+        <studentName>Luna Lovegood</studentName>
+        <haus>Ravenclaw</haus>
+        <lehrerName>Minerva McGonagall</lehrerName>
+        <punkte>20</punkte>
+    </entry>
+    <entry>
+        <id>4</id>
+        <studentName>Cedric Diggory</studentName>
+        <haus>Hufflepuff</haus>
+        <lehrerName>Albus Dumbledore</lehrerName>
+        <punkte>20</punkte>
+    </entry>
+    <entry>
+        <id>5</id>
+        <studentName>Harry Potter</studentName>
+        <haus>Gryffindor</haus>
+        <lehrerName>Dolores Umbridge</lehrerName>
+        <punkte>-15</punkte>
+    </entry>
+    <entry>
+        <id>6</id>
+        <studentName>Michael Corner</studentName>
+        <haus>Ravenclaw</haus>
+        <lehrerName>Horace Slughorn</lehrerName>
+        <punkte>10</punkte>
+    </entry>
+    <entry>
+        <id>7</id>
+        <studentName>Ernie Mcmillan</studentName>
+        <haus>Hufflepuff</haus>
+        <lehrerName>Minerva McGonagall</lehrerName>
+        <punkte>35</punkte>
+    </entry>
+    <entry>
+        <id>8</id>
+        <studentName>Ron Weasley</studentName>
+        <haus>Gryffindor</haus>
+        <lehrerName>Remus Lupin</lehrerName>
+        <punkte>10</punkte>
+    </entry>
+    <entry>
+        <id>9</id>
+        <studentName>Vincent Crabbe</studentName>
+        <haus>Slytherin</haus>
+        <lehrerName>Severus Snape</lehrerName>
+        <punkte>-5</punkte>
+    </entry>
+    <entry>
+        <id>10</id>
+        <studentName>Hermione Granger</studentName>
+        <haus>Gryffindor</haus>
+        <lehrerName>Minerva McGonagall</lehrerName>
+        <punkte>30</punkte>
+    </entry>
+</entries>

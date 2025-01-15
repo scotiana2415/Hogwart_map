@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "studentName": "Hermione Granger",
+    "haus": "Gryffindor",
+    "lehrerName": "Minerva McGonagall",
+    "punkte": 15
+  },
+  {
+    "id": 2,
+    "studentName": "Draco Malfoy",
+    "haus": "Slytherin",
+    "lehrerName": "Severus Snape",
+    "punkte": 30
+  },
+  {
+    "id": 3,
+    "studentName": "Luna Lovegood",
+    "haus": "Ravenclaw",
+    "lehrerName": "Minerva McGonagall",
+    "punkte": 20
+  },
+  {
+    "id": 4,
+    "studentName": "Cedric Diggory",
+    "haus": "Hufflepuff",
+    "lehrerName": "Albus Dumbledore",
+    "punkte": 20
+  },
+  {
+    "id": 5,
+    "studentName": "Harry Potter",
+    "haus": "Gryffindor",
+    "lehrerName": "Dolores Umbridge",
+    "punkte": -15
+  },
+  {
+    "id": 6,
+    "studentName": "Michael Corner",
+    "haus": "Ravenclaw",
+    "lehrerName": "Horace Slughorn",
+    "punkte": 10
+  },
+  {
+    "id": 7,
+    "studentName": "Ernie Mcmillan",
+    "haus": "Hufflepuff",
+    "lehrerName": "Minerva McGonagall",
+    "punkte": 35
+  },
+  {
+    "id": 8,
+    "studentName": "Ron Weasley",
+    "haus": "Gryffindor",
+    "lehrerName": "Remus Lupin",
+    "punkte": 10
+  },
+  {
+    "id": 9,
+    "studentName": "Vincent Crabbe",
+    "haus": "Slytherin",
+    "lehrerName": "Severus Snape",
+    "punkte": -5
+  },
+  {
+    "id": 10,
+    "studentName": "Hermione Granger",
+    "haus": "Gryffindor",
+    "lehrerName": "Minerva McGonagall",
+    "punkte": 30
+  }
+]

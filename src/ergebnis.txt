@@ -1,0 +1,4 @@
+Hufflepuff#55
+Gryffindor#40
+Ravenclaw#30
+Slytherin#25
